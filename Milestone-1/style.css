@@ -44,7 +44,6 @@ h1 {
     border-radius: 10px;
     height: 60px;
 }
-/* #e63946 */
 
 .left-section-h3 {
     box-shadow: 0 0 15px #03ecf8;
@@ -86,7 +85,6 @@ button {
     font-size: 18px;
 }
 
-/* #ff737c */
 button:hover {
     background-color: #1fc3cb;
 }
